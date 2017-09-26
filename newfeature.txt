@@ -1,3 +1,4 @@
 new feature
 here we are talking about diff concepts
 new line
+new line 2
